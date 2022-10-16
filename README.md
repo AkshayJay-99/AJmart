@@ -17,3 +17,5 @@ The daily data from the POS systems worldwide, gets pushed into the Big-Data pip
 
 **Server:** MySQL server, Apache Spark
 
+## Note
+For further info read the AJmart wiki: https://github.com/AkshayJay-99/AJmart/wiki
